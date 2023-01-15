@@ -1,0 +1,58 @@
+.no{
+    width: 35px;
+    position: absolute;
+    left: 1260px;
+    top: 11px;
+}
+.go{
+    width: 35px;
+    position: absolute;
+    left: 1310px;
+    top: 11px;
+    
+}
+.h2{
+    font-size: 24px;
+    font-family:Arial, Helvetica, sans-serif;
+}
+.left{
+    margin-left: 60px;
+    margin-top: 80px;
+}
+.center,.left,.right,.b,.l,.u{
+    margin-left: 10px;
+    margin-top: 3px;
+    width: 20px;
+    height: 30px;
+}
+.f{
+    width: 30px;
+    border: 1px solid;
+    color: rgb(4, 4, 119);
+}
+input {
+    border: none;
+    width: 80px;
+    font-size: 15px;
+    
+}
+
+input:focus {
+    background-color: white;
+} 
+
+ table {
+    width: 1000px;
+    height: 500px; 
+}
+
+td {
+    border: 2px solid rgb(53, 66, 143);
+}
+
+tr:first-child td, td:first-child {
+    background-color: rgb(141, 163, 192);
+    padding: 1px 3px;
+    text-align: center;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
